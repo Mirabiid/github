@@ -15,3 +15,8 @@ body {
 h1 {
     color: yellow;
 }
+
+h1:hover {
+    text-decoration: underline;
+    color: black;
+}
