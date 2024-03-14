@@ -14,9 +14,16 @@ body {
 
 h1 {
     color: yellow;
+    margin-bottom: 20px;
 }
 
 h1:hover {
     text-decoration: underline;
     color: black;
+}
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    color: red;
 }
